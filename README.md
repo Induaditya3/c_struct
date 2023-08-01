@@ -1,8 +1,8 @@
 # c_struct
-##data structures:
-###tree
-###trie
-###linked list
 
+## data structures:
+### tree
+### trie
+### linked list
 
-####some exemplary code for understanding c data structures.
+#### Some exemplary code for understanding c data structures.
